@@ -7,6 +7,11 @@ public class Demo
 		System.out.println("Hello==m1");
 	}
 	
+	public void m2()
+	{
+		System.out.println("I Am Pritam");
+	}
+	
 	
 	public static void main(String[] args) {
 		
